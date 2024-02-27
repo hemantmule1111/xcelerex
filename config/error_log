@@ -1,0 +1,1400 @@
+[18-Oct-2023 17:06:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 17:06:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 17:06:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 17:06:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 17:06:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 17:06:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 17:06:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 17:06:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 17:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 17:06:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 17:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 17:06:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 17:06:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 17:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 17:06:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 17:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 17:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 17:07:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 17:07:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 17:07:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 17:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 17:07:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 17:07:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 17:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 17:07:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 17:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 17:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 17:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 17:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 17:52:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 17:52:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 17:52:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 17:52:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 17:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 17:52:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 17:52:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 17:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 17:52:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 17:52:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 18:51:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 18:51:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 18:51:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 18:51:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 18:51:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 18:51:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 18:51:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 18:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 18:51:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 18:51:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 18:51:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 18:52:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 18:52:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 18:52:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 18:52:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 18:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 18:52:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 18:52:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 18:52:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 18:52:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 18:52:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 18:52:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 18:52:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 18:52:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 18:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 18:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 19:33:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 19:34:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 19:34:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 19:35:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 19:35:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 19:35:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 19:35:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 19:35:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 19:35:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 19:35:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 19:35:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 19:35:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 19:35:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 20:44:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 20:44:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 20:44:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 20:44:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 20:44:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 20:44:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 20:44:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 20:44:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 20:44:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 20:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 20:44:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 20:44:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 20:44:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 20:44:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 20:44:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 20:44:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 20:44:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 20:44:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 20:44:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 20:44:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 20:44:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 20:44:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 20:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 20:44:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 20:44:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 20:44:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[18-Oct-2023 22:19:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[18-Oct-2023 22:19:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[18-Oct-2023 22:19:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[18-Oct-2023 22:19:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[18-Oct-2023 22:19:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[18-Oct-2023 22:19:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[18-Oct-2023 22:19:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[18-Oct-2023 22:20:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[18-Oct-2023 22:20:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[18-Oct-2023 22:20:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[18-Oct-2023 22:20:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[18-Oct-2023 22:20:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[18-Oct-2023 22:20:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[19-Oct-2023 23:41:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[19-Oct-2023 23:41:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[19-Oct-2023 23:41:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[19-Oct-2023 23:41:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[19-Oct-2023 23:41:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[19-Oct-2023 23:41:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[19-Oct-2023 23:41:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[19-Oct-2023 23:41:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[19-Oct-2023 23:41:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[19-Oct-2023 23:41:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[19-Oct-2023 23:41:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[19-Oct-2023 23:41:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[19-Oct-2023 23:41:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[19-Oct-2023 23:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[19-Oct-2023 23:42:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[19-Oct-2023 23:42:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[19-Oct-2023 23:42:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[19-Oct-2023 23:42:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[19-Oct-2023 23:42:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[19-Oct-2023 23:42:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[19-Oct-2023 23:42:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[19-Oct-2023 23:42:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[19-Oct-2023 23:42:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[19-Oct-2023 23:42:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[19-Oct-2023 23:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[19-Oct-2023 23:42:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[20-Oct-2023 00:29:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[20-Oct-2023 00:29:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[20-Oct-2023 00:30:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[20-Oct-2023 00:30:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[20-Oct-2023 00:30:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[20-Oct-2023 00:30:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[20-Oct-2023 00:30:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[20-Oct-2023 00:30:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[20-Oct-2023 00:30:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[20-Oct-2023 00:30:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[20-Oct-2023 00:30:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[20-Oct-2023 00:30:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[20-Oct-2023 23:16:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[20-Oct-2023 23:16:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[20-Oct-2023 23:16:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[20-Oct-2023 23:16:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[20-Oct-2023 23:16:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[20-Oct-2023 23:16:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[20-Oct-2023 23:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[20-Oct-2023 23:16:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[20-Oct-2023 23:16:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[20-Oct-2023 23:16:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[20-Oct-2023 23:16:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[20-Oct-2023 23:16:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[20-Oct-2023 23:16:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[20-Oct-2023 23:17:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[20-Oct-2023 23:17:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[20-Oct-2023 23:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[20-Oct-2023 23:17:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[20-Oct-2023 23:17:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[20-Oct-2023 23:17:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[20-Oct-2023 23:17:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[20-Oct-2023 23:17:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[20-Oct-2023 23:17:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[20-Oct-2023 23:17:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[20-Oct-2023 23:17:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[20-Oct-2023 23:17:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[20-Oct-2023 23:17:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 01:23:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 01:23:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 01:23:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 01:23:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 01:23:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 01:23:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 01:23:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 01:23:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 01:23:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 01:23:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 01:23:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 01:23:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 01:23:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 01:23:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 01:23:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 01:23:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 01:23:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 01:23:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 01:23:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 01:23:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 01:23:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 01:23:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 01:23:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 01:23:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 01:23:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 01:23:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 01:47:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 01:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 01:47:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 01:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 01:48:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 01:48:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 01:48:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 01:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 01:48:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 01:48:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 01:48:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 01:48:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 01:48:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 03:52:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 03:52:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 03:52:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 03:52:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 03:52:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 03:52:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 03:52:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 03:52:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 03:52:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 03:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 03:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 03:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 03:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 03:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 03:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 03:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 03:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 03:53:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 03:53:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 03:53:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 03:53:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 03:53:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 03:53:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 03:53:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 03:53:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 03:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 04:50:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 04:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 04:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 04:52:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 04:52:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 04:52:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 04:52:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 04:53:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 04:53:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 04:53:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 04:53:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 04:53:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 04:53:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 05:58:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 05:58:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 05:58:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 05:58:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 05:58:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 05:59:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 05:59:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 05:59:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 05:59:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 05:59:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 05:59:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 05:59:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 05:59:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 05:59:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 05:59:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 05:59:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 05:59:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 05:59:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 05:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 05:59:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 05:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 05:59:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 05:59:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 05:59:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 05:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 06:49:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 06:50:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 06:50:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 06:51:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 06:51:30 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 06:51:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 06:51:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 06:51:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 06:51:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 06:51:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 06:51:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 06:51:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 06:51:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 11:49:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 11:49:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 11:49:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 11:49:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 11:49:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 11:49:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 11:50:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 11:50:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 11:50:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 11:50:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 11:50:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 11:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 11:50:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 11:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 11:50:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 11:50:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 11:50:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 11:50:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 11:50:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 11:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 11:50:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 11:50:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 11:50:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 11:50:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 11:50:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 11:50:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[21-Oct-2023 13:16:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[21-Oct-2023 13:18:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[21-Oct-2023 13:18:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[21-Oct-2023 13:20:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[21-Oct-2023 13:20:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[21-Oct-2023 13:20:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[21-Oct-2023 13:21:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[21-Oct-2023 13:21:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[21-Oct-2023 13:22:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[21-Oct-2023 13:22:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[21-Oct-2023 13:22:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[21-Oct-2023 13:22:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[21-Oct-2023 13:22:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
+[25-Oct-2023 08:37:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/app.php on line 19
+[25-Oct-2023 08:37:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/broadcasting.php on line 18
+[25-Oct-2023 08:37:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/cache.php on line 18
+[25-Oct-2023 08:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/database.php on line 18
+[25-Oct-2023 08:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/filesystems.php on line 16
+[25-Oct-2023 08:37:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/hashing.php on line 32
+[25-Oct-2023 08:37:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/logging.php on line 21
+[25-Oct-2023 08:37:15 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/mail.php on line 16
+[25-Oct-2023 08:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/queue.php on line 16
+[25-Oct-2023 08:37:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/sanctum.php on line 18
+[25-Oct-2023 08:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/services.php on line 18
+[25-Oct-2023 08:37:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/session.php on line 21
+[25-Oct-2023 08:37:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function resource_path() in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/xcelerex/public_html/xcelerex/xcelerex/config/view.php on line 17
